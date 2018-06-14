@@ -1,0 +1,12 @@
+{
+  "name": "test-react-components-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "docz dev"
+  },
+  "dependencies": {
+    "docz": "^0.2.2"
+  }
+}
